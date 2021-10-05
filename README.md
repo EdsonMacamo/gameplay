@@ -1,5 +1,5 @@
 # gameplay
-Palicativo dsenvolvido na nwl da rockeseat
+Aplicativo dsenvolvido na nwl da rockeseat
 <p align="center">
   <img alt="Letmeask" src="https://github.com/EdsonMacamo/gameplay/blob/master/src/assets/adaptive-icon.png" width="160px">
 </p>
